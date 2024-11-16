@@ -13,8 +13,8 @@ Tecnologias Usadas
 HTML: Estrutura das páginas web.
 CSS: Estilização das páginas.
 JavaScript: Funcionalidades dinâmicas no carrinho de compras, manipulação de DOM, cálculo de valores e geração do resumo do pedido.
-PHP: Envio de informações do pedido para um Sistema de Gerenciamento de Banco de Dados (SGBD).
-SGBD: Armazenamento das informações dos pedidos.
+PHP: Envio de informações do pedido para um Sistema de Gerenciamento de Banco de Dados (MySQL).
+MySQL: Armazenamento das informações dos pedidos.
 
 Bibliotecas JavaScript:
 jsPDF: Para gerar PDFs.
